@@ -1,0 +1,9 @@
+D:\pragrammalar\dasturlar\c#\web api\Telegram_Bot_1\publish\Telegram_Bot_1.exe
+D:\pragrammalar\dasturlar\c#\web api\Telegram_Bot_1\publish\appsettings.Development.json
+D:\pragrammalar\dasturlar\c#\web api\Telegram_Bot_1\publish\appsettings.json
+D:\pragrammalar\dasturlar\c#\web api\Telegram_Bot_1\publish\Telegram_Bot_1.dll
+D:\pragrammalar\dasturlar\c#\web api\Telegram_Bot_1\publish\Telegram_Bot_1.deps.json
+D:\pragrammalar\dasturlar\c#\web api\Telegram_Bot_1\publish\Telegram_Bot_1.runtimeconfig.json
+D:\pragrammalar\dasturlar\c#\web api\Telegram_Bot_1\publish\Telegram_Bot_1.pdb
+D:\pragrammalar\dasturlar\c#\web api\Telegram_Bot_1\publish\Newtonsoft.Json.dll
+D:\pragrammalar\dasturlar\c#\web api\Telegram_Bot_1\publish\Telegram.Bot.dll
